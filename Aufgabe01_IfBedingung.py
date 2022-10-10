@@ -3,6 +3,8 @@ import random
 random = random.Random()
 randomNumber = random.randint(1, 100)
 
+print(randomNumber)
+
 if randomNumber < 20:
     print("Mini")
 elif randomNumber < 50:
