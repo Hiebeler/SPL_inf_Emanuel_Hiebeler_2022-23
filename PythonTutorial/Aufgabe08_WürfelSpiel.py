@@ -4,7 +4,7 @@ rounds = 0
 userSum = 0
 computerSum = 0
 
-while rounds <= 6:
+while rounds < 6:
     rounds += 1
     print("Click Enter to dice")
     input()
